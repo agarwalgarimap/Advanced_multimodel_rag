@@ -1,0 +1,26 @@
+# FastAPI
+fastapi
+uvicorn
+python-multipart
+sse-starlette
+
+# Google Gemini
+google-generativeai
+
+# LangChain
+langchain
+langchain-google-genai
+langchain-community
+langchain-chroma
+
+# Vector DB
+chromadb
+
+# Document Processing
+unstructured[pdf]
+pillow
+python-magic-bin
+
+# Utils
+python-dotenv
+pydantic
